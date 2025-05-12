@@ -1,0 +1,56 @@
+{
+  "faqs": [
+    {
+      "id": "what-is",
+      "question": "What is AI Social Boost?",
+      "answer": "A smart AI tool that analyzes your social media profile on LinkedIn or Instagram and optimizes it based on best practices and psychological social selling.\n1. Automatic analysis of profile picture, title, description, CTA, and positioning.\n2. Text suggestions and improvements with just one click.\n3. Ready to use immediately - without an agency or branding project.\n This saves you a lot of money on expensive agencies!"
+    },
+    {
+      "id": "what-for",
+      "question": "What is it for?",
+      "answer": "1. Coaches, consultants & self-employed individuals.\n2. Financial service providers, insurance and real estate agents.\n3. Startup founders & sales teams.\n4. Anyone who wants to gain professional visibility via LinkedIn or Instagram.\n5. People who want to finally make their profile 'customer-friendly'."
+    },
+    {
+      "id": "special",
+      "question": "What makes AI Social Boost Special?",
+      "answer": "1. Fast: Analysis + optimization suggestions in 60 seconds\n2. Intelligent: Al identifies weaknesses and potential.\n3. Text Coach: Provides you with better wording for your bio, slogan, headline, etc.\n4. Converting: Optimized for trust & inquiries."
+    },
+    {
+      "id": "how-works",
+      "question": "How it works?",
+      "answer": "1. Enter your profile link or upload a screenshot.\n2. Start the analysis - takes about 60 seconds.\n3. Receive concrete optimization suggestions + text ideas."
+    },
+    {
+      "id": "what-get",
+      "question": "What you get",
+      "answer": "1. Clear evaluation of your profile (header, bio, title, CTA, etc.)\n2. Al-generated text suggestions for better impact.\n3. Tips on positioning and profile structure.\n4. Instantly more clarity and Professionalism."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Sarah Thompson",
+      "role": "UX Designer",
+      "text": "I design for others daily but neglected my own profile. This tool gave me actionable suggestions immediately. Fast, smart, and on point."
+    },
+    {
+      "name": "Alex Ramirez",
+      "role": "Graphic Designer",
+      "text": "I didn't know how to stand out until I tried this AI Booster. It helped me find strong words that showcase my creative abilities."
+    },
+    {
+      "name": "Michael Chen",
+      "role": "Software Developer",
+      "text": "The AI suggestions helped me optimize my profile and highlight my technical expertise in a more engaging way."
+    },
+    {
+      "name": "11111",
+      "role": "Graphic Designer",
+      "text": "I didn't know how to stand out until I tried this AI Booster. It helped me find strong words that showcase my creative abilities."
+    },
+    {
+      "name": "2222",
+      "role": "Software Developer",
+      "text": "The AI suggestions helped me optimize my profile and highlight my technical expertise in a more engaging way."
+    }
+  ]
+}
