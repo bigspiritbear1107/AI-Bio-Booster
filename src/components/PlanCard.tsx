@@ -1,6 +1,6 @@
 import { Check } from "lucide-react";
 import clsx from "clsx";
-import { useNavigate } from "react-router-dom";
+// import { useNavigate } from "react-router-dom";
 
 type PlanCardProps = {
   name: string;
@@ -23,10 +23,10 @@ export default function PlanCard({
   isYearly,
   onToggleYearly,
 }: PlanCardProps) {
-  const navigate = useNavigate();
+  // const navigate = useNavigate();
   const handleSubscribe = () => {
-    const url = `/paid_version?plan=${name}&price=${price}&yearly=${isYearly}`;
-    navigate(url);
+    // const url = `/paid_version?plan=${name}&price=${price}&yearly=${isYearly}`;
+    // navigate(url);
   };
   return (
     <div className="bg-white text-gray-900 shadow-xl rounded-2xl p-6 transition-all duration-300 border border-gray-200">

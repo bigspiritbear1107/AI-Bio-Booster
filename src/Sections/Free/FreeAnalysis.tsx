@@ -23,6 +23,17 @@ export default function AnalysisSection() {
     return "#facc15"; // yellow
   };
 
+  const handleSendMail = () => {
+    toast.error("You can't send email in free version.", {
+      position: "top-right",
+      autoClose: 3000,
+      hideProgressBar: false,
+      closeOnClick: true,
+      pauseOnHover: true,
+      draggable: true,
+    });
+  };
+
   const handleAnalysis = async () => {
     if (!bioText || bioText.trim() === "") {
       toast.error("Please enter your bio text before analyzing", {
@@ -195,7 +206,10 @@ export default function AnalysisSection() {
               />
             </div>
 
-            <button className="mt-6 w-full bg-indigo-600 text-white py-3 text-lg rounded-md hover:bg-indigo-700 flex items-center justify-center">
+            <button
+              className="mt-6 w-full bg-indigo-600 text-white py-3 text-lg rounded-md hover:bg-indigo-700 flex items-center justify-center"
+              onClick={handleSendMail}
+            >
               <Send className="h-5 w-5 mr-2" />
               Send E-mail
             </button>
