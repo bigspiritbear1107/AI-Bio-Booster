@@ -6,12 +6,10 @@ export default function Footer() {
           &copy; {new Date().getFullYear()} AI Bio Booster. All rights reserved.
         </p>
         <p>
-          Developed by <span className="text-purple-400 font-semibold">Mid@s</span>
+          Developed by{" "}
+          <span className="text-purple-400 font-semibold">Mid@s</span>
         </p>
       </div>
     </footer>
-
-
   );
 }
-
